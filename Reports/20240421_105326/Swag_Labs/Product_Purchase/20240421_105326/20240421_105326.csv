@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Product_Purchase,Chrome 123.0.0.0,,,21-04-2024 10:53:38,21-04-2024 10:54:03,25.207s,PASSED
+,,,,,,,
+Test Cases/SwagLabs/Product_Purchase,Chrome 123.0.0.0,,,21-04-2024 10:53:39,21-04-2024 10:54:03,24.743s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,21-04-2024 10:53:39,21-04-2024 10:53:55,16.093s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/index.html"")",Chrome 123.0.0.0,,,21-04-2024 10:53:55,21-04-2024 10:53:56,1.009s,PASSED
+"setText(findTestObject(""Object Repository/Product_Purchase_Day03/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), ""standard_user"")",Chrome 123.0.0.0,,,21-04-2024 10:53:56,21-04-2024 10:53:58,1.284s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product_Purchase_Day03/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qvR8qdLDkuSHoogsugpyXQ=="")",Chrome 123.0.0.0,,,21-04-2024 10:53:58,21-04-2024 10:53:58,0.817s,PASSED
+"click(findTestObject(""Object Repository/Product_Purchase_Day03/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 123.0.0.0,,,21-04-2024 10:53:58,21-04-2024 10:53:59,0.608s,PASSED
+"click(findTestObject(""Object Repository/Product_Purchase_Day03/Page_Swag Labs/div_Epic sadface Username and password do n_d62622""))",Chrome 123.0.0.0,,,21-04-2024 10:53:59,21-04-2024 10:53:59,0.308s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Product_Purchase_Day03/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qcu24s4901FyWDTwXGr6XA=="")",Chrome 123.0.0.0,,,21-04-2024 10:53:59,21-04-2024 10:54:00,0.428s,PASSED
+"click(findTestObject(""Object Repository/Product_Purchase_Day03/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 123.0.0.0,,,21-04-2024 10:54:00,21-04-2024 10:54:02,2.527s,PASSED
+"click(findTestObject(""Object Repository/Product_Purchase_Day03/Page_Swag Labs/button_ADD TO CART""))",Chrome 123.0.0.0,,,21-04-2024 10:54:02,21-04-2024 10:54:03,0.287s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,21-04-2024 10:54:03,21-04-2024 10:54:03,0.631s,PASSED
