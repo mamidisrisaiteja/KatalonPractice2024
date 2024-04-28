@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>VSTS_01</name>
+   <name>VST_03</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4c30f52a-159c-4598-8fab-7493972781ed</testSuiteGuid>
+   <testSuiteGuid>cb874679-b083-4cb0-b988-4d306756eece</testSuiteGuid>
    <testCaseLink>
-      <guid>3272b273-1596-460b-9c65-3d6742147135</guid>
+      <guid>7f546ed5-6aba-4c71-9a02-d1fe310c0c12</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/VSTC01</testCaseId>
+      <testCaseId>Test Cases/VT03</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

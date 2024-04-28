@@ -21,10 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://petstore.octoperf.com/')
 
-WebUI.click(findTestObject('Object Repository/VST_02/Page_JPetStore Demo/a_Enter the Store'))
+WebUI.click(findTestObject('Object Repository/VT03/Page_JPetStore Demo/a_Enter the Store'))
 
-WebUI.click(findTestObject('Object Repository/VST_02/Page_JPetStore Demo/area'))
-
-'TEST'
-WebUI.takeScreenshotAsCheckpoint('')
+WebUI.takeScreenshotAsCheckpoint('test')
 
