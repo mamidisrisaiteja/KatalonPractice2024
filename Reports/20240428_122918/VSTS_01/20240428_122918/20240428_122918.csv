@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VSTS_01,Edge Chromium 124,,,28-04-2024 12:29:56,28-04-2024 12:30:35,38.895s,FAILED
+,,,,,,,
+Test Cases/VSTC01,Edge Chromium 124,,,28-04-2024 12:30:28,28-04-2024 12:30:35,7.056s,FAILED
+"openBrowser("""")",Edge Chromium 124,,,28-04-2024 12:30:28,28-04-2024 12:30:29,0.328s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Edge Chromium 124,,,28-04-2024 12:30:29,28-04-2024 12:30:30,0.951s,PASSED
+"click(findTestObject(""Object Repository/VisualTesting_01/Page_JPetStore Demo/a_Enter the Store""))",Edge Chromium 124,,,28-04-2024 12:30:30,28-04-2024 12:30:34,4.119s,PASSED
+"takeScreenshotAsCheckpoint("""")",Edge Chromium 124,test,,28-04-2024 12:30:34,28-04-2024 12:30:35,1.498s,FAILED

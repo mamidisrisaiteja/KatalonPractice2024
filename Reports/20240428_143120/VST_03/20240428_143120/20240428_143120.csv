@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VST_03,Chrome 124.0.0.0,,,28-04-2024 14:31:38,28-04-2024 14:34:54,3m - 16.362s,PASSED
+,,,,,,,
+Test Cases/VT03,Chrome 124.0.0.0,,,28-04-2024 14:34:37,28-04-2024 14:34:54,17.031s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,28-04-2024 14:34:37,28-04-2024 14:34:49,11.745s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 124.0.0.0,,,28-04-2024 14:34:49,28-04-2024 14:34:50,0.971s,PASSED
+"click(findTestObject(""Object Repository/VT03/Page_JPetStore Demo/a_Enter the Store""))",Chrome 124.0.0.0,,,28-04-2024 14:34:50,28-04-2024 14:34:52,2.589s,PASSED
+"takeScreenshotAsCheckpoint(""test"")",Chrome 124.0.0.0,,,28-04-2024 14:34:52,28-04-2024 14:34:54,1.603s,PASSED
